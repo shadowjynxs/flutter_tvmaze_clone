@@ -1,7 +1,8 @@
 # tvmaze
 
-A new Flutter project.
+A TVMAZE api demo.
+
+https://github.com/user-attachments/assets/ac465057-920f-456e-b4ef-13874910e16d
 
 
-https://github.com/user-attachments/assets/dd66d96b-018c-4820-9df2-41685c25d500
 
